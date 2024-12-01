@@ -1,2 +1,2 @@
-# plp-python-week4
-File Handling Program In Python
+## File Handling Program In Python
+Convert contents of a file to uppercase
